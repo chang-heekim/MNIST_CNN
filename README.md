@@ -14,7 +14,7 @@
 | Softmax               | 10 classes                                                        |
 
 
-- ### Accuracy :
+- ### Accuracy : 92.97%
 
 
 - <b>[MNIST with Pytorch](/Pytorch_CNN_MNIST.ipynb)</b>
