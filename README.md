@@ -1,6 +1,16 @@
 # MNIST_CNN
 
- - ### Convolution Network
+- ### MNIST dataset
+ - MNist dataset learning/validation was conducted using Google Colab.
+ 
+ - Image
+ 
+ 
+ - Hyper Parameters
+  - learning_rate = 0.0001
+  - epochs = 15
+  -  
+- ### Convolution Network
 | Layer                 | Specification                                                     | 
 | :---------------------| :-----------------------------------------------------------------|
 | Input                 | Channel = 1, Image size = 28 x 28                                 |
