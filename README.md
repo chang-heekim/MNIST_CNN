@@ -6,7 +6,7 @@
   * Image
     
     
-    <img src="https://github.com/chang-heekim/MNIST_CNN/blob/main/images/mnist.png"/>
+    <img src="https://github.com/chang-heekim/MNIST_CNN/blob/main/images/mnist_image.png"/>
  
   * Hyper Parameters
     * learning_rate = 0.0001
