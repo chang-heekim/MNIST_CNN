@@ -2,7 +2,7 @@
 
 ## Convolution Network
 | Layer                 | Specification                                                     | 
-| :---------------------| --------------------------------:                                 |
+| :---------------------| :----------------------------------------------------------------:|
 | Input                 | Channel = 1, Image size = 28 x 28                                 |
 | Convlayer_1           | Channel = 32, kernel_size = 3 x 3, stride = 1, padding = 0(=same) |
 | Activation            | ReLU                                                              |
