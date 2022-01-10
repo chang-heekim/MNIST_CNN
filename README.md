@@ -7,9 +7,9 @@
  
  
  - Hyper Parameters
-  - learning_rate = 0.0001
-  - epochs = 15
-  -  
+   learning_rate = 0.0001
+   epochs = 15
+    
  - ### Convolution Network
  | Layer                 | Specification                                                     | 
  | :---------------------| :-----------------------------------------------------------------|
