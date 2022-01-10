@@ -4,6 +4,8 @@
   * MNist dataset learning/validation was conducted using Google Colab.
  
   * Image
+    
+    
     <img src="https://github.com/chang-heekim/MNIST_CNN/blob/main/images/mnist.png"/>
  
   * Hyper Parameters
